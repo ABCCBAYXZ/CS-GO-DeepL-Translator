@@ -1,2 +1,2 @@
-# CS-GO-DeepL-Translator
-A Software to translate CSGO communications
+# CSGO DeepL Translator
+A Software to translate CSGO communications using a Telnet connection
