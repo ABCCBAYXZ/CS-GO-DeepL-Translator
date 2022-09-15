@@ -7,7 +7,7 @@ this application uses the DeepL API so you need an API key which you can get [he
 I recommend to test the program before you request a key.
 
 # How to use
-1. Set the CS:GO launch options: -condebug & -netconport 2121 
+1. Set the CS:GO launch options: -netconport 2121 
 [[How to do this?](https://help.steampowered.com/de/faqs/view/7D01-D2DD-D75E-2955)]
 
 ![launch options](https://i.postimg.cc/0QYN9nQW/cs.png)
