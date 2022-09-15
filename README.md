@@ -2,7 +2,7 @@
 A Software to translate CSGO communications using a Telnet connection.
 
 # Important
-this application uses the DeepL API so you need an API key which you can get [here](https://support.deepl.com/hc/de/articles/360021200939-DeepL-API-Free) for free.
+this application uses the DeepL API so you need an API key which you can get [here](https://support.deepl.com/hc/en-us/articles/360021200939-DeepL-API-Free) for free.
 
 I recommend to test the program before you request a key.
 
