@@ -175,7 +175,8 @@ public class CSGOWriter {
 				"in addition, the targeted language must be specified here are two examples:",
 				"Console input: echo !saya es Hello, World ->Allchat output is: Hola mundo [es stands for spanish]",
 				"Console input: echo !sayt de Hello, World! ->Teamchat output is: Hallo, Welt! [de stands for German]",
-				"to see all possible languages type !lang"
+				"to see all possible languages type !lang",
+				"to close the translator type echo Stop"
 		};
 		
 		for(String c : ASCII) {
