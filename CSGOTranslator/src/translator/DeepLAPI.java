@@ -35,11 +35,10 @@ public class DeepLAPI {
 		@SuppressWarnings("deprecation")
 		String link = domain + "/translate?auth_key=" + authenticationKey + "&text=" + URLEncoder.encode(chat.getText())
 				+ "&target_lang=" + chat.getLanguage();
-		
+		System.out.println(link);
 		try {
 			return openConnection(link).readLine();
 		} catch (IOException ex) {
-			setAuthenticationKey(null);
 			return null;
 		}
 	}

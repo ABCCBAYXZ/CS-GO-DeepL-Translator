@@ -18,7 +18,8 @@ public class Chat {
 			text = rawText;
 			language = "EN-US";
 		} else {
-			text = rawText.split(" ")[2];
+			
+			text = rawText.substring(9,rawText.length()-1);
 			language = rawText.split(" ", 3)[1];
 			
 		}
